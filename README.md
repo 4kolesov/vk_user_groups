@@ -81,7 +81,6 @@ CREATE DATABASE vk_groups;
 Создать пользователя и пароль для подключения к БД:
 ```
 CREATE USER DigitalFutureSystems WITH ENCRYPTED PASSWORD 'OkLetsGo';
-
 ```
 
 Выдать права на использование нужной БД нужным юзером:
